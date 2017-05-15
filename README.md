@@ -5,5 +5,4 @@ A node script that reads a text file and prints to the console. The text file pa
 
 ## Dependencies
 - Node
-- Commander
 - FileSystem

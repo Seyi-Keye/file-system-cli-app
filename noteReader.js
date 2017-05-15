@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 'use strict';
-// const program = require('commander'),
+
 const chalk = require("chalk"),
  fs = require("fs");
 
-const  path = process.argv[2];
+const path = process.argv[2];
 
  console.log(chalk.green.bold('I am about to read your file'))
 fs.readFile(`${path}`, function (err, data) {
