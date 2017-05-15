@@ -1,0 +1,14 @@
+{
+  "name": "file-system-cli-app",
+  "version": "1.0.0",
+  "description": "file system read file and write to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "Aromokeye Omolade",
+  "license": "ISC"
+}
