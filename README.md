@@ -1,7 +1,7 @@
-##  Note Reader Cli App
+##  File Writer Cli App
 
 ## Description
-A node script that reads a text file and prints to the console. The text file path should be specified via the console: `node file_reader path/to/text/file
+Simple Console App that takes in a string of text and writes to a file. NB every new text should be appended to the initially created file in a new line.
 
 ## Dependencies
 - Node
